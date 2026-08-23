@@ -4,10 +4,17 @@
 
 ### Topics Covered
 Data Cleaning
+
 Excel Formulas & Functions
+
 Lookup Functions
+
 PivotTables
+
 Conditional Formatting
+
 Data Analysis
+
 Charts & Visualization
+
 Basic Dashboard Development
